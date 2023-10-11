@@ -1,3 +1,3 @@
 # git_test
-first repo
-Hello Odin!git
+
+this is test amrit c
